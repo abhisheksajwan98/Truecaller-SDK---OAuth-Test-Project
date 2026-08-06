@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Test OAuth</string>
+    <string name="init_sdk_loader_message">Initializing SDK…</string>
+    <string name="retry_timer">Retry again in %d seconds</string>
+    <string name="retry_now">Retry now</string>
+    <string name="clientId">g-xb3z3kgvukw4cz-ed-52ssixsewghmj4kpt0teyqk</string>
+
+    <string-array name="SdkPartnerHeadingOptionsArray">
+        <item>Login to %s</item>
+        <item>Signup with %s</item>
+        <item>Continue with %s</item>
+        <item>Complete order with %s</item>
+        <item>Checkout with %s</item>
+        <item>Login to %s with one tap</item>
+    </string-array>
+
+    <string-array name="SdkPartnerCTAOptionsArray">
+        <item>Login</item>
+        <item>Signup</item>
+        <item>Signin</item>
+        <item>Verify</item>
+        <item>Register</item>
+        <item>Get Started</item>
+        <item>Proceed</item>
+        <item>Continue</item>
+        <item>Accept</item>
+        <item>Confirm</item>
+    </string-array>
+
+    <string-array name="SdkPartnerSampleColors">
+        <item>#121E2C</item>
+        <item>#0f6cd9</item>
+        <item>white</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>black</item>
+        <item>gray</item>
+        <item>cyan</item>
+        <item>magenta</item>
+        <item>yellow</item>
+        <item>lightgray</item>
+        <item>darkgray</item>
+        <item>aqua</item>
+        <item>fuchsia</item>
+        <item>lime</item>
+        <item>maroon</item>
+        <item>navy</item>
+        <item>olive</item>
+        <item>purple</item>
+        <item>silver</item>
+        <item>teal</item>
+    </string-array>
+
+    <string-array name="SdkPartnerDismissOptions">
+        <item>None</item>
+        <item>Cross Button</item>
+        <item>Secondary CTA border</item>
+    </string-array>
+</resources>
